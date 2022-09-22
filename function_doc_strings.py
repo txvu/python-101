@@ -1,4 +1,4 @@
-import my_collections
+import collections
 
 
 def my_func(arg1, arg2=None):
