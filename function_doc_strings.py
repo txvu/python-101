@@ -1,4 +1,4 @@
-import collections_namedtuple
+import my_collections
 
 
 def my_func(arg1, arg2=None):
